@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://udemai.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-# theme = "hugo-theme-mini"
+theme = "mini"
 defaultContentLanguage = "fr"
 themesDir = "../../"
 hasCJKLanguage = true

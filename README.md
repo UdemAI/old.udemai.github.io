@@ -19,6 +19,7 @@ hugo -d public/
 # Ressources
 
 
+- [using github actions to integrate hugo website](https://schnerring.net/blog/create-a-hugo-website-with-github-pages-github-actions-and-cloudflare/)
 - [Template - Hugo theme mini](https://github.com/nodejh/hugo-theme-mini/blob/master/exampleSite/content)
 - [Quick Start](https://gohugo.io/getting-started/quick-start/)
 - [Creating Hugo Theme from scratch](https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/)
