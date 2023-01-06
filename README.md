@@ -3,12 +3,23 @@
 
 To create a new post: `hugo new posts/<newpost>.md`
 
+To download modules
+```
+hugo mod init randomName
+hugo mod vendor
+hugo serve -D
+```
+
+To build website:
+```
+hugo -d public/
+```
 
 
 # Ressources
 
 
-- [Template - Hugo theme mini](https://github.com/nodejh/hugo-theme-mini/blob/master/exampleSite/content/posts/markdown-syntax.md)
+- [Template - Hugo theme mini](https://github.com/nodejh/hugo-theme-mini/blob/master/exampleSite/content)
 - [Quick Start](https://gohugo.io/getting-started/quick-start/)
 - [Creating Hugo Theme from scratch](https://retrolog.io/blog/creating-a-hugo-theme-from-scratch/)
 - [Convert YAML to TOML](https://www.convertsimple.com/convert-yaml-to-toml/)
