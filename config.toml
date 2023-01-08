@@ -1,6 +1,6 @@
 baseURL = 'http://udemai.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'UdeM AI'
 theme = "mini"
 defaultContentLanguage = "fr"
 themesDir = "../../"
