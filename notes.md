@@ -26,4 +26,5 @@ hugo -d public/
 - [Convert YAML to TOML](https://www.convertsimple.com/convert-yaml-to-toml/)
 - [Adding tags and categories](https://discourse.gohugo.io/t/how-to-add-tag-and-category/3202)
 - [Adding Modules](https://stackoverflow.com/questions/68727583/module-files-not-downloading-for-themes)
+- [automating website deployment](https://carpentries-incubator.github.io/blogging-with-hugo-and-github-pages/aio/index.html)
 
