@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on UdeM AI</title>
-    <link>http://udemai.github.io/posts/</link>
-    <description>Recent content in Posts on UdeM AI</description>
+    <title>presentation on UdeM AI</title>
+    <link>http://udemai.github.io/tags/presentation/</link>
+    <description>Recent content in presentation on UdeM AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://udemai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://udemai.github.io/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Présentation</title>
       <link>http://udemai.github.io/posts/pr%C3%A9sentation/</link>

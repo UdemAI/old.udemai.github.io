@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on UdeM AI</title>
+    <link>http://udemai.github.io/tags/</link>
+    <description>Recent content in Tags on UdeM AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://udemai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>présentation</title>
-      <link>http://example.org/tags/pr%C3%A9sentation/</link>
+      <title>presentation</title>
+      <link>http://udemai.github.io/tags/presentation/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/pr%C3%A9sentation/</guid>
+      <guid>http://udemai.github.io/tags/presentation/</guid>
       <description></description>
     </item>
     
